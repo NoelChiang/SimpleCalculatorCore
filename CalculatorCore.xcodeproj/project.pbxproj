@@ -13,6 +13,7 @@
 		59286CF5221146180060B3D2 /* CalculatorCore.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 59286CF3221146180060B3D2 /* CalculatorCore.xcdatamodeld */; };
 		59286CF72211461A0060B3D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59286CF62211461A0060B3D2 /* Assets.xcassets */; };
 		59286CFA2211461A0060B3D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59286CF82211461A0060B3D2 /* LaunchScreen.storyboard */; };
+		59286D022211463C0060B3D2 /* NLCalculatorCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59286D012211463C0060B3D2 /* NLCalculatorCore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		59286CF62211461A0060B3D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59286CF92211461A0060B3D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59286CFB2211461A0060B3D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59286D012211463C0060B3D2 /* NLCalculatorCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NLCalculatorCore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				59286CF82211461A0060B3D2 /* LaunchScreen.storyboard */,
 				59286CFB2211461A0060B3D2 /* Info.plist */,
 				59286CF3221146180060B3D2 /* CalculatorCore.xcdatamodeld */,
+				59286D012211463C0060B3D2 /* NLCalculatorCore.swift */,
 			);
 			path = CalculatorCore;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				59286CF5221146180060B3D2 /* CalculatorCore.xcdatamodeld in Sources */,
 				59286CEF221146180060B3D2 /* ViewController.swift in Sources */,
+				59286D022211463C0060B3D2 /* NLCalculatorCore.swift in Sources */,
 				59286CED221146180060B3D2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
